@@ -1,5 +1,6 @@
 # iccd
-Biblioteca e recursos dos cursos de Introdução à Ciência da Computação de de Dados do IME USP
+Biblioteca e recursos dos cursos de Introdução à Ciência da Computação de de Dados do [Instituto de Matemática e Estatística da USP](https://www.ime.usp.br/).
+
 
 
 
