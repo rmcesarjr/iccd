@@ -4,7 +4,7 @@ _DATASETS = {
     'pib': 'https://raw.githubusercontent.com/rmcesarjr/iccd/main/data/ano-pib-pibpc-ipca.csv',
     'cidades': 'https://raw.githubusercontent.com/rmcesarjr/iccd/main/data/populacao_50_cidades_brasil.csv',
     'clima': 'https://raw.githubusercontent.com/rmcesarjr/iccd/main/data/clima_mensal.csv',
-    'peso_altura': 'https://raw.githubusercontent.com/rmcesarjr/iccd/main/data/altura_peso_distribuicao.csv'
+    'peso_altura': 'https://raw.githubusercontent.com/rmcesarjr/iccd/main/data/altura_peso_distribuicao.csv' 
 }
 
 def dataload(nome):
